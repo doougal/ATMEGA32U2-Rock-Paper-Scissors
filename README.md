@@ -6,7 +6,7 @@ board.
 Written in part with Juliet Samandari.
 
 To play this game with a UCFK4, navigate to your clone of the funkit library, and place this two layers deep.
-e.x. /ence260-ucfk4/*/*/game.c
+e.x. /ence260-ucfk4/\*/\*/game.c
 This is to ensure the makefile can find the relevant dependencies.
 
 ###### The Fun-Kit
