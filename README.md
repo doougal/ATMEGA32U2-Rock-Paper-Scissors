@@ -1,4 +1,4 @@
-# ATMEGA8U2-Rock-Paper-Scissors
+# ATMEGA32U2-Rock-Paper-Scissors
 ###### Course Project for ENCE260
 A Rock Paper Scissors game written for the ATmega32u2 microcontroller, using the UC Fun-Kit 4 embedded
 board.
