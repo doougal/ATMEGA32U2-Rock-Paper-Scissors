@@ -13,7 +13,7 @@ This is to ensure the makefile can find the relevant dependencies.
 The UCFK4 was designed by Philipp Hof and Michael Hayes, and the implementation depends on multiple
 drivers, and utility programs. 
 
-The UCFK4 has an ATmega32u2 microcontroller, a reset push button, a general-purpose pushbutton, a five-way navigation switch, a green LED that indicates if power is on, a user switchable blue LED, a seven by five dot-matrix display, an infrared LED, a 36 kHz infrared receiver, and a USB connector. The USB connector provides 5 V to run the microcontroller and to allow programs to be up-loaded. The ATmega32U2 microcontroller in the UCFK4 uses the AVR DFU bootloader.
+The UCFK4 has an ATmega32u2 microcontroller, a reset push button, a general-purpose pushbutton, a five-way navigation switch, a green LED that indicates if power is on, a user switchable blue LED, a seven by five dot-matrix display, an infrared LED, a 36 kHz infrared receiver, and a USB connector. The USB connector provides 5 V to run the microcontroller and to allow programs to be uploaded. The ATmega32U2 microcontroller in the UCFK4 uses the AVR DFU bootloader.
 
 ###### Game README
 A copy of the [games's README](/docs/README.txt) on how to play:
