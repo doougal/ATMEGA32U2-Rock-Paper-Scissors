@@ -1,5 +1,4 @@
-# ATMEGA32U2-Rock-Paper-Scissors
-###### Course Project for ENCE260
+# About
 A Rock Paper Scissors game written for the ATmega32u2 microcontroller, using the UC Fun-Kit 4 embedded
 board.
 
@@ -9,13 +8,13 @@ To play this game with a UCFK4, navigate to your clone of the funkit library, an
 e.x. /ence260-ucfk4/\*/\*/game.c
 This is to ensure the makefile can find the relevant dependencies.
 
-###### The Fun-Kit
+# The Fun-Kit
 The UCFK4 was designed by Philipp Hof and Michael Hayes, and the implementation depends on multiple
 drivers, and utility programs. 
 
 The UCFK4 has an ATmega32u2 microcontroller, a reset push button, a general-purpose pushbutton, a five-way navigation switch, a green LED that indicates if power is on, a user switchable blue LED, a seven by five dot-matrix display, an infrared LED, a 36 kHz infrared receiver, and a USB connector. The USB connector provides 5 V to run the microcontroller and to allow programs to be uploaded. The ATmega32U2 microcontroller in the UCFK4 uses the AVR DFU bootloader.
 
-###### Game README
+# Game README
 A copy of the [games's README](/docs/README.txt) on how to play:
 1)  You will first have the title screen of 'ROCK PAPER SCISSORS PRESS START' displayed. Push the navswitch to move to the next phase of game play
 2)  The options of first to three, first to five and first to seven are then displayed. 
